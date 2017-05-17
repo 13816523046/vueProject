@@ -1,5 +1,6 @@
 <template>
   <div>
+    <p>啦啦啦玩玩vue</p>
     <h1>{{msg}}</h1>
     <input type="" name="" v-model="msg">
     <sun></sun>
